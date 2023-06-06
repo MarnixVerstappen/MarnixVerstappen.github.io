@@ -1,5 +1,6 @@
 body {
-    background-image: url(/img/Simple\ Shiny.svg);
+  background-color: bisque;
+  user-select: none;
 }
 
 .animation-welcome {
@@ -32,3 +33,10 @@ a {
     min-height: 100vh;
 }
 
+.Name {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.bg-color {
+  background-color:rgb(255, 137, 94)
+}
